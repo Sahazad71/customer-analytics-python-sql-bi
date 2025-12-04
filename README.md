@@ -1,4 +1,4 @@
-🌟 Project Title
+🌟 customer-analytics-python-sql-bi
 
 This project showcases a complete end-to-end customer analytics workflow using Python, SQL, and Power BI. It includes loading and exploring the dataset in Python, performing EDA, cleaning and transforming data, executing analytical SQL queries, and building an interactive Power BI dashboard.
 
@@ -25,73 +25,12 @@ This project highlights technical skills in data analysis, database management, 
 
 
 
-🚀 Features
-
-🎨 Colorful animated shapes
-
-🐢 Turtle graphics
-
-⚡ Fast and simple
-
-📁 Clean file structure
-
-📂 Folder Structure
-project-folder/
-│-- main.py
-│-- README.md
-│-- requirements.txt
-│-- assets/
-
-🛠️ Installation
-
-Clone the repository
-
-git clone https://github.com/your-username/your-repo-name.git
-
-
-Navigate to the project folder
-
-cd your-repo-name
-
-
-Install dependencies
-
-pip install -r requirements.txt
-
-▶️ How to Run
-python main.py
-
-
-
-🧰 Technologies Used
-
-Python
-
-Turtle Graphics
-
-Colorsys
-
-🤝 Contributing
-
-Contributions are welcome!
-
-Fork the repository
-
-Create a new branch
-
-Commit your changes
-
-Submit a pull request
-
-📄 License
-
-This project is licensed under the MIT License.
 
 👤 Author
 
 Sahazad Khan
 
-GitHub: https://github.com/
+GitHub: https://github.com/Sahazad71
 
 LinkedIn:www.linkedin.com/in/sahazad-khan
 
